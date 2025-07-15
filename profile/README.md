@@ -5,9 +5,12 @@ Juristic is dedicated to transforming the legal landscape through innovative tec
 ## About Us
 
 At Juristic, we believe technology can simplify and enhance the practice of law. Our team brings together expertise in software development, artificial intelligence, and legal operations to build tools that drive efficiency, accuracy, and accessibility in legal work.
+
 Read more on our [website](https://juristic.io)
 
 # Security
+We are committed to maintaining the highest standards of security and compliance. Our comprehensive security program is designed to protect your data and ensure compliance with industry regulations. We regularly undergo independent audits and maintain certifications to validate our security controls and practices.
+
 Check out our [Security Hub](https://trust.juristic.io)
 
 ## Our Values
